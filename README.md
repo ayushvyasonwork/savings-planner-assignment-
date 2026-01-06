@@ -90,14 +90,14 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/ayushvyasonwork/savings-planner.git
+git clone https://github.com/ayushvyasonwork/savings-planner-assignment-.git
 cd savings-planner
 ```
 
 Or if using HTTPS:
 
 ```bash
-git clone https://github.com/ayushvyasonwork/savings-planner.git
+git clone https://github.com/ayushvyasonwork/savings-planner-assignment-.git
 cd savings-planner
 ```
 
